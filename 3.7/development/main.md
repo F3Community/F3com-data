@@ -42,7 +42,7 @@ You can help out with bug reports, fixes in the code and of course your own plug
 F3 uses Git for version control. To clone the code repository on GitHub:
 
 ``` bash
-git clone git://git@github.com:bcosca/Fat-Free-Framework.git
+git clone git://git@github.com:bcosca/fatfree-core.git
 ```
 
 If all you want is a zipball, grab it [**here**](https://github.com/bcosca/fatfree/archive/dev.zip).
@@ -59,9 +59,9 @@ See what other users have made with F3:
 <table class="table col-sm-12">
     <thead>
         <tr>
-            <th class="col-sm-2">Plugin Name</th>
-            <th class="col-sm-8">Description</th>
-            <th class="col-sm-2">Author</th>
+            <th width="150">Plugin Name</th>
+            <th>Description</th>
+            <th width="150">Author</th>
         <tr>
     </thead>
     <tbody>
@@ -108,9 +108,9 @@ See what other users have made with F3:
     <table class="table">
         <thead>
             <tr>
-                <th class="col-sm-2">Plugin Name</th>
-                <th class="col-sm-8">Description</th>
-                <th class="col-sm-2">Author</th>
+                <th width="150">Plugin Name</th>
+                <th>Description</th>
+                <th width="150">Author</th>
             <tr>
         </thead>
         <tbody>
@@ -133,9 +133,9 @@ See what other users have made with F3:
 <table class="table">
     <thead>
         <tr>
-            <th class="col-sm-2">Plugin Name</th>
-            <th class="col-sm-8">Description</th>
-            <th class="col-sm-2">Author</th>
+            <th width="150">Plugin Name</th>
+            <th>Description</th>
+            <th width="150">Author</th>
         <tr>
     </thead>
     <tbody>
@@ -217,9 +217,9 @@ See what other users have made with F3:
     <table class="table">
         <thead>
             <tr>
-                <th class="col-sm-2">Plugin Name</th>
-                <th class="col-sm-8">Description</th>
-                <th class="col-sm-2">Author</th>
+                <th width="150">Plugin Name</th>
+                <th>Description</th>
+                <th width="150">Author</th>
             <tr>
         </thead>
         <tbody>
